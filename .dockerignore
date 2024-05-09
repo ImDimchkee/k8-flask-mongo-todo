@@ -1,0 +1,8 @@
+Docker/
+**/__pychache__
+/__pycache__
+__pycache__
+venv/
+k8/
+Dockerfile
+docker-compose.yaml
